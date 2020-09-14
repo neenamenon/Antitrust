@@ -1,3 +1,4 @@
+#Looking at the relationship betweeen Herfindahl-Hirschman Index, economic growth and inequality of 40 countries.
 encode country, gen(country1)
 rename value HHI
 label variable HHI "HHI"
